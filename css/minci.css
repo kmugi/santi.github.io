@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+    background-image: url(../img/xingxi.jpg);
+    color: #333333;
+    padding: 20px;
+    margin: 0;
+  }
+
+  h1 {
+    color: #003366;
+  }
+
+  h2 {
+    color: #006699;
+  }
+
+  p {
+    line-height: 1.5;
+  }
+
+  .term {
+    margin-bottom: 20px;
+  }
+
+  .term h3 {
+    color: #fff;
+    margin-bottom: 10px;
+  }
+
+  .term p {
+      color:#fff;
+    font-style: italic;
+  }
+  .back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #003366;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
